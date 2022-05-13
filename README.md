@@ -1,7 +1,8 @@
 # bingo-engine
-a custom search engine 
+# a custom search engine made with html css django bs4 lxml
+## made by [Harsh Sharma](https://harrycodeswhileworldsleeps.github.io/harsh-s-cv/)
 
-#[https://bingo-engine.herokuapp.com/](https://bingo-engine.herokuapp.com/)
+## [https://bingo-engine.herokuapp.com/](https://bingo-engine.herokuapp.com/)
 
 ![bingosearch](https://user-images.githubusercontent.com/94862735/168223057-c45d7621-c237-4740-8687-badfac7d6fbb.JPG)
 
